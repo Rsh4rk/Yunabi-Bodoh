@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	font-family: Helvetica, sans-serif, Arial;
+}
+
+h1, h2, p, li{
+	font-family: 'Grey Qo', cursive;
+
+}
+
+header{
+	background-color: lightcyan;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color:  lightpink;
+	font-size: 50px;
+
+}
+
+header img{
+	border-radius: 170px;
+    width: 150px;
+    border: 20px solid #e2d13b9c;
+}
+
+header p {
+	color: darkgreen;
+}
+main{
+	max-widht:  800px;
+	margin: 0 auto;
+	padding-left: 10px;
+	padding-right: 10px;
+
+	}
+
+h2{
+	font-size: 50px;
+	color: lightpink;
+}
+
+p{ 
+font-size: 20px; }
+
+
+a:hover{
+	color: whitesmoke;
+	background-color: darkred;
+}
+
+footer{
+	padding-left: 10px;
+	background-color: lightcyan;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.info {
+	font-size: 10px;
+}
